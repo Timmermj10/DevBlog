@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on DevBlog - Jacob Timmerman</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on DevBlog - Jacob Timmerman</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jun 2024 21:24:58 -0400</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SecondDevBlogChipotle</title>
+      <link>https://example.org/posts/seconddevblogchipotle/</link>
+      <pubDate>Thu, 20 Jun 2024 21:24:58 -0400</pubDate>
+      <guid>https://example.org/posts/seconddevblogchipotle/</guid>
+      <description>Chipotle Social Media Site As I mentioned at the tail end of yesterdays blog, today was mainly to start work on moving the data to a database and figure out the API stuff&#xA;However, when I started working today I found that I could just use Node.js to create the API server, and use a library to port the csv into json that could be used by the Javascript in index.</description>
+    </item>
+    <item>
+      <title>FirstDevBlogChipotle</title>
+      <link>https://example.org/posts/firstdevblogchipotle/</link>
+      <pubDate>Wed, 19 Jun 2024 12:27:02 -0400</pubDate>
+      <guid>https://example.org/posts/firstdevblogchipotle/</guid>
+      <description>Chipotle Social Media Site Did some preliminary research yesterday and found that something very similar to what I want to do has already been done. The site has a map as the default background with pins for locations of Chipotle&amp;rsquo;s that you can click and see the rating and other information for.&#xA;I would like to do something similar to this, but instead of just ratings and a few comments, I want to have a live feed, similar to Instagram, where you can see pictures and ratings of food that was just prepared at the location!</description>
+    </item>
+  </channel>
+</rss>
