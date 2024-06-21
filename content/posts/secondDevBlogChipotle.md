@@ -14,7 +14,7 @@ This saved me a lot of pain, I will still need to eventually set up a database t
 
 I got the API server set up quite fast with the help of GitHub Copilot and was able to get all of the locations shown on the map
 
-![First look at all the Chipotle locations on the map](../images/chipotle_locations_on_map.png)
+![First look at all the Chipotle locations on the map](../../images/chipotle_locations_on_map.png)
 
 This was quite laggy, since each of the 3397 locations were being shown at once
 
@@ -29,5 +29,5 @@ All in all a very productive and exciting day! I will be spending the rest of th
 Tomorrow I hope to tackle what happens when a user clicks on an individual Chipotle location, what they see, how they can interact, what information is most important to the user, etc!
 
 How the site looks at the end of day 2!
-![End of day 2 look at the map wide view](../images/chipotle_locations_d2_wide.png)
-![End of day 2 look at the map zoomed view](../images/chipotle_locations_d2_close.png)
+![End of day 2 look at the map wide view](../../images/chipotle_locations_d2_wide.png)
+![End of day 2 look at the map zoomed view](../../images/chipotle_locations_d2_close.png)
