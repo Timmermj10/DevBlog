@@ -1,4 +1,4 @@
-## DevBlog for Jacob Timmerman
+## [DevBlog for Jacob Timmerman](https://timmermj10.github.io/DevBlog/)
 
 Will use this as a form of keeping up to date with different projects that I will be working on. 
 
